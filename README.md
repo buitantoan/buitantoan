@@ -91,20 +91,6 @@ I enjoy taking complex requirements and turning them into clean, reliable produc
 
 ---
 
-## 🚀 What I Build
-
-| Area | Expertise |
-| --- | --- |
-| **WordPress** | Custom plugins, themes, blocks, hooks and integrations |
-| **WooCommerce** | Custom products, checkout, orders, APIs and business logic |
-| **Gutenberg** | Custom blocks, Interactivity API, React and block editor workflows |
-| **Backend** | PHP, REST APIs and system architecture |
-| **Performance** | Caching, database optimization and Core Web Vitals |
-| **AI** | AI API integrations, automation and AI-powered features |
-| **Maintenance** | Debugging, refactoring, optimization and long-term support |
-
----
-
 ## 📌 Featured Projects
 <ul dir="auto">
 <li>
